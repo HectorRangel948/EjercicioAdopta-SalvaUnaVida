@@ -1,0 +1,58 @@
+body
+{
+    background-color:#D1F8FF;
+}
+
+h1{
+    color:#FC6C28;
+    font-size:50px;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align:center;
+}
+
+table{
+    border:1px;
+}
+
+.tipoAnimal{
+    color:#5583D4;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    margin:50px 1px 1px 1px;
+    background-color:lightblue;
+}
+
+.nombre{
+    color:#FC6C28;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    margin: 1px;
+    text-align:center;
+}
+
+.fotoMascota{
+    width: 500px;
+    border:5px solid white;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.descripcion{
+    color:#3F3F37;
+    text-align:center;
+    font-family:cursive;
+}
+
+a{
+    color:#3F3F37;
+    text-align:center;
+    font-family:cursive; 
+}
+
+#informacionExtra{
+    text-align:center;
+}
+
+
+
