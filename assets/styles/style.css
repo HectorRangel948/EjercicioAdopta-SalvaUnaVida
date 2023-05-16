@@ -54,5 +54,27 @@ a{
     text-align:center;
 }
 
+.etiquetaDatos{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:20px;
+}
 
+.inputDatos{
+    border-radius: 5px;
+}
+
+th{
+    color:#5583D4;
+}
+
+.botonAdoptar{
+    border-radius: 5px;
+    padding:10px 30px;
+    background-color: #FC6C28;
+    border-color: #5583D4;
+}
+
+td > a{
+    padding-left:30%;
+}
 
